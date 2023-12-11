@@ -1,6 +1,8 @@
 # KronaDevice
 Krona device. StepUp dc-dc converter from 3.7v to 9v. For tester DT830.
 
+![KronaDevice](https://github.com/mikelsv/KronaDevice/blob/main/KronaDevice.jpg)
+
 ## Sources
 KiCad sheme: /StepUp 3_7 to 9 MC34063
 
